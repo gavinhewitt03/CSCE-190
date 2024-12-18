@@ -1,3 +1,5 @@
 # gavinhewitt03.github.io
 
-This project was created for the CSCE 190 course at USC. The index.html follows along with each milestone that my group followed as we developed a high-fidelity prototype for an application of our choosing. I took this course during the first year of my Computer Science degree.
+This project was created for the CSCE 190 course at USC. In this course, my group and I were tasked with creating the concept for an app and developing a high-fidelity prototype of that application; the index.html file in this repository outlines each milestone we followed in our development as part of the course.
+
+I completed this course during my first year as a CS student.
